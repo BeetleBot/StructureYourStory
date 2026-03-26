@@ -1,0 +1,21 @@
+{
+  "id": "novel_seven_point",
+  "name": "Seven-Point Story Structure",
+  "mediums": ["novel"],
+  "author": "Dan Wells",
+  "type": "beat_sheet",
+  "complexity": "beginner",
+  "description": "7-point system focusing on internal and external arcs.",
+  "best_for": "Character-driven novels, clear plot progression.",
+  "avoid_if": "You want very granular beat-by-beat guidance.",
+  "references": [{"label": "Seven Point Story Structure", "url": "https://www.creativelive.com/blog/dan-wells-7-point-story-structure/"}],
+  "steps": [
+    {"id": "hook", "name": "Hook", "target": "Start", "prompt": "The hero in their normal world, demonstrating their flaw.", "content": "", "status": "empty"},
+    {"id": "plot_turn_1", "name": "Plot Turn 1", "target": "25%", "prompt": "The inciting incident that pushes the hero into a new world.", "content": "", "status": "empty"},
+    {"id": "pinch_point_1", "name": "Pinch Point 1", "target": "37%", "prompt": "Pressure from the antagonist/problem; the stakes rise.", "content": "", "status": "empty"},
+    {"id": "midpoint", "name": "Midpoint", "target": "50%", "prompt": "The hero moves from reaction to action.", "content": "", "status": "empty"},
+    {"id": "pinch_point_2", "name": "Pinch Point 2", "target": "62%", "prompt": "A major blow from the antagonist; things look their worst.", "content": "", "status": "empty"},
+    {"id": "plot_turn_2", "name": "Plot Turn 2", "target": "75%", "prompt": "The hero discovers the key to solving the main problem.", "content": "", "status": "empty"},
+    {"id": "resolution", "name": "Resolution", "target": "100%", "prompt": "The climax and the aftermath; how the hero has changed.", "content": "", "status": "empty"}
+  ]
+}

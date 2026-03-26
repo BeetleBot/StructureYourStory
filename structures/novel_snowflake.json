@@ -1,0 +1,21 @@
+{
+  "id": "novel_snowflake",
+  "name": "Snowflake Method",
+  "mediums": ["novel"],
+  "author": "Randy Ingermanson",
+  "type": "outline_method",
+  "complexity": "intermediate",
+  "description": "Progressive expansion method for plotting novels.",
+  "best_for": "Planners (architects), complex stories.",
+  "avoid_if": "You are a pure 'pantser' (discovery writer) who hates planning.",
+  "references": [{"label": "The Snowflake Method", "url": "https://www.advancedfictionwriting.com/articles/snowflake-method/"}],
+  "steps": [
+    {"id": "one_sentence", "name": "1. One-Sentence Summary", "target": "Phase 1", "prompt": "Write a one-sentence summary of your novel (approx 15 words).", "content": "", "status": "empty"},
+    {"id": "one_paragraph", "name": "2. One-Paragraph Summary", "target": "Phase 2", "prompt": "Expand your sentence into a paragraph (approx 5 sentences: setup, disasters, climax).", "content": "", "status": "empty"},
+    {"id": "character_summaries", "name": "3. Character Summaries", "target": "Phase 3", "prompt": "Brief summaries for each major character (motivation, goal, conflict, epiphany).", "content": "", "status": "empty"},
+    {"id": "one_page", "name": "4. One-Page Synopsis", "target": "Phase 4", "prompt": "Expand the one-paragraph summary into a one-page synopsis.", "content": "", "status": "empty"},
+    {"id": "scene_list", "name": "5. Scene List", "target": "Phase 5", "prompt": "List all scenes needed to tell the story.", "content": "", "status": "empty"},
+    {"id": "expanded_scene_notes", "name": "6. Expanded Scene Notes", "target": "Phase 6", "prompt": "Add details, POV, and goals to each scene in your list.", "content": "", "status": "empty"},
+    {"id": "draft_prep", "name": "7. Draft Prep", "target": "Phase 7", "prompt": "Any final notes or research needed before starting the first draft.", "content": "", "status": "empty"}
+  ]
+}

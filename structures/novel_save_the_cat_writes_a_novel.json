@@ -1,0 +1,29 @@
+{
+  "id": "novel_save_the_cat_writes_a_novel",
+  "name": "Save the Cat Writes a Novel",
+  "mediums": ["novel"],
+  "author": "Jessica Brody",
+  "type": "beat_sheet",
+  "complexity": "beginner",
+  "description": "Novel-specific adaptation of the Save the Cat method.",
+  "best_for": "Commercial novels, genre fiction.",
+  "avoid_if": "Your novel is purely stream of consciousness.",
+  "references": [{"label": "Save the Cat! Writes a Novel", "url": "https://www.jessicabrody.com/save-the-cat-writes-a-novel/"}],
+  "steps": [
+    {"id": "opening_image", "name": "Opening Image", "target": "0-1%", "prompt": "The 'before' snapshot of the hero and their world.", "content": "", "status": "empty"},
+    {"id": "theme_stated", "name": "Theme Stated", "target": "5%", "prompt": "A hint at what the hero's journey will be about (life lesson).", "content": "", "status": "empty"},
+    {"id": "set_up", "name": "Set-Up", "target": "1-10%", "prompt": "Establishing the hero's world and their 'stasis death'.", "content": "", "status": "empty"},
+    {"id": "catalyst", "name": "Catalyst", "target": "10%", "prompt": "The inciting incident that changes everything.", "content": "", "status": "empty"},
+    {"id": "debate", "name": "Debate", "target": "10-20%", "prompt": "Hero's reaction and initial refusal of the call.", "content": "", "status": "empty"},
+    {"id": "break_into_two", "name": "Break into Two", "target": "20%", "prompt": "The proactive decision to leave the world behind.", "content": "", "status": "empty"},
+    {"id": "b_story", "name": "B Story", "target": "22%", "prompt": "The 'helper' character or subplot is introduced.", "content": "", "status": "empty"},
+    {"id": "fun_and_games", "name": "Fun and Games", "target": "20-50%", "prompt": "The hero in the 'new world', trying things out.", "content": "", "status": "empty"},
+    {"id": "midpoint", "name": "Midpoint", "target": "50%", "prompt": "The stakes are raised; a false victory or false defeat.", "content": "", "status": "empty"},
+    {"id": "bad_guys_close_in", "name": "Bad Guys Close In", "target": "50-75%", "prompt": "Things get harder; internal and external forces pressure the hero.", "content": "", "status": "empty"},
+    {"id": "all_is_lost", "name": "All Is Lost", "target": "75%", "prompt": "The hero's lowest point; often a 'whiff of death'.", "content": "", "status": "empty"},
+    {"id": "dark_night_of_the_soul", "name": "Dark Night of the Soul", "target": "75-80%", "prompt": "The hero wallows and eventually finds the 'new' way.", "content": "", "status": "empty"},
+    {"id": "break_into_three", "name": "Break into Three", "target": "80%", "prompt": "The hero realizes how to solve the problems from Acts 1 and 2.", "content": "", "status": "empty"},
+    {"id": "finale", "name": "Finale", "target": "80-99%", "prompt": "The execution of the new plan and the climax.", "content": "", "status": "empty"},
+    {"id": "final_image", "name": "Final Image", "target": "100%", "prompt": "The 'after' snapshot showing how the hero has changed.", "content": "", "status": "empty"}
+  ]
+}
